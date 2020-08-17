@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Dione and today is Monday, 17 August, 16:52 CEST.
+
 <!--
 **dionedomingo/dionedomingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
