@@ -1,0 +1,22 @@
+{
+  "name": "dionedomingo",
+  "version": "1.0.0",
+  "description": "<!-- **dionedomingo/dionedomingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dionedomingo/dionedomingo.git"
+  },
+  "author": "dionedomingo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dionedomingo/dionedomingo/issues"
+  },
+  "homepage": "https://github.com/dionedomingo/dionedomingo#readme",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  }
+}
