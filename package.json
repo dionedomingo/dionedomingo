@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dionedomingo/dionedomingo#readme",
   "dependencies": {
+    "moment": "^2.27.0",
     "mustache": "^4.0.1",
     "node-fetch": "^2.6.0",
     "puppeteer": "^5.2.1"

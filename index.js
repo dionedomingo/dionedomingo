@@ -3,6 +3,7 @@ const Mustache = require('mustache');
 const fetch = require('node-fetch');
 const fs = require('fs');
 const puppeteerService = require('./services/puppeteer.service');
+const moment = require('moment');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
@@ -22,6 +23,7 @@ let DATA = {
     timeZoneName: 'short',
     timeZone: 'Europe/Copenhagen',
   }),
+  today: moment().format('LL')
 };
 
 async function setInstagramPosts() {
