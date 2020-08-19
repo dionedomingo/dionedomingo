@@ -1,28 +1,34 @@
 # Hi there. 👌🏻
 
-My name is **Dione** and today is Wednesday, 19 August, 18:20 CEST.
+My name is **Dione** and today is Wednesday, 19 August, 18:33 CEST.
 
 ![](https://komarev.com/ghpvc/?username=dionedomingo&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
-<a href="https://www.linkedin.com/dk/dionedomingo/">
-  <img align="left" alt="Dione Domingo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/dionedomingo">
-  <img align="left" alt="Dione's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://medium.com/@dionedomingo">
-  <img align="left" alt="Dione's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
-</a>
+<p>
+    <a href="https://www.linkedin.com/dk/dionedomingo/">
+        <img alt="Dione Domingo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a>
+    <a href="https://twitter.com/dionedomingo">
+        <img alt="Dione's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    </a>
+    <a href="https://medium.com/@dionedomingo">
+        <img alt="Dione's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+    </a>
+</p>
 
 
-## I write in...
+<br />
+
+## 👨‍💻I write code in...
 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="Vue.js" src="https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue.js&logoColor=white" /> <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> <img alt="Vagrant" src="https://img.shields.io/badge/-Vagrant-1563ff?style=flat-square&logo=vagrant&logoColor=white" /> <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img alt="php" src="https://img.shields.io/badge/-php-474A8A?style=flat-square&logo=PHP&logoColor=white" />
 
 
 ## [My latest instagram posts.](https://instagram.com/dionedomingo) 
 
-<p><img height="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;117739797_225512838794728_6523845046874179652_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;d8KW2gEq-_sAX_UKGo6&amp;oh&#x3D;cd9246ba625804c3920702911e410696&amp;oe&#x3D;5F68A43E" /> <img height="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;93942286_858077541375288_1128394927490267151_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;fzc0OowvXM4AX9ori8W&amp;oh&#x3D;d604aa6cbe07fa68ce828e1ec79030c9&amp;oe&#x3D;5F678671" /> <img height="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;93794420_2257065311268249_4500808362806558166_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;109&amp;_nc_ohc&#x3D;VAnH8AwwZuIAX8ls_E7&amp;oh&#x3D;7f047dd8cf1a1b2dbff3359e32a8745b&amp;oe&#x3D;5F3F80F0" /></p>
+<p><img height="200" src="https:&#x2F;&#x2F;scontent-lga3-2.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;117739797_225512838794728_6523845046874179652_n.jpg?_nc_ht&#x3D;scontent-lga3-2.cdninstagram.com&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;d8KW2gEq-_sAX8wjlF7&amp;oh&#x3D;c1d6db4b63d9f8ed21520b08da7707e7&amp;oe&#x3D;5F68A43E" /> <img height="200" src="https:&#x2F;&#x2F;scontent-lga3-2.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;93942286_858077541375288_1128394927490267151_n.jpg?_nc_ht&#x3D;scontent-lga3-2.cdninstagram.com&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;fzc0OowvXM4AX_9A1Cy&amp;oh&#x3D;ed0bf9cad2fbc9a2eb7c5e4c5d8de38d&amp;oe&#x3D;5F678671" /> <img height="200" src="https:&#x2F;&#x2F;scontent-lga3-2.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;93794420_2257065311268249_4500808362806558166_n.jpg?_nc_ht&#x3D;scontent-lga3-2.cdninstagram.com&amp;_nc_cat&#x3D;109&amp;_nc_ohc&#x3D;VAnH8AwwZuIAX-768Wz&amp;oh&#x3D;c9751199f462a2e1ddca6719f37361b1&amp;oe&#x3D;5F3F80F0" /></p>
+
+[@dionedomingo](https://instagram.com/dionedomingo) 
 
 ## 📫 How to reach me: ...
 
