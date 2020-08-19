@@ -1,7 +1,11 @@
 // index.js
 const Mustache = require('mustache');
+const fetch = require('node-fetch');
 const fs = require('fs');
+const puppeteerService = require('./services/puppeteer.service');
+
 const MUSTACHE_MAIN_DIR = './main.mustache';
+
 /**
   * DATA is the object that contains all
   * the data to be provided to Mustache
@@ -19,6 +23,14 @@ let DATA = {
     timeZone: 'Europe/Copenhagen',
   }),
 };
+
+async function setInstagramPosts() {
+    const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('dionedomingo', 3);
+    DATA.img1 = instagramImages[0];
+    DATA.img2 = instagramImages[1];
+    DATA.img3 = instagramImages[2];
+}
+
 /**
   * A - We open 'main.mustache'
   * B - We ask Mustache to render our file with the data
@@ -31,4 +43,24 @@ function generateReadMe() {
     fs.writeFileSync('README.md', output);
   });
 }
-generateReadMe();
+
+
+async function action() {
+  
+    /**
+     * Get pictures
+     */
+    await setInstagramPosts();
+  
+    /**
+     * Generate README
+     */
+    await generateReadMe();
+  
+    /**
+     * Fermeture de la boutique 👋
+     */
+    await puppeteerService.close();
+  }
+  
+  action();
