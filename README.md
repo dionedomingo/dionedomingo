@@ -23,11 +23,16 @@ My name is **Dione** and today is August 19, 2020.
 
 ## [My latest instagram posts.](https://instagram.com/dionedomingo) 
 
-<p><img height="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;117739797_225512838794728_6523845046874179652_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;d8KW2gEq-_sAX-4SHVw&amp;oh&#x3D;bea2d0202689e0158961ee8fdded9f06&amp;oe&#x3D;5F68A43E" /> <img height="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;93942286_858077541375288_1128394927490267151_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;fzc0OowvXM4AX8nzMwJ&amp;oh&#x3D;1cbcce4d83fd5eb9500f0f32bfecb7f7&amp;oe&#x3D;5F678671" /> <img height="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;93794420_2257065311268249_4500808362806558166_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;109&amp;_nc_ohc&#x3D;VAnH8AwwZuIAX9G1ftA&amp;oh&#x3D;b339181bcfaaa13412e737d06980529a&amp;oe&#x3D;5F3F80F0" /></p>
+<p><img height="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;117739797_225512838794728_6523845046874179652_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;d8KW2gEq-_sAX_4Ttjc&amp;oh&#x3D;4755f5ef6f8a587274b86782a76eafb9&amp;oe&#x3D;5F68A43E" /> <img height="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;93942286_858077541375288_1128394927490267151_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;fzc0OowvXM4AX-FxdT2&amp;oh&#x3D;b0aa1f3b2d90f30d8b00167c178d3faf&amp;oe&#x3D;5F678671" /> <img height="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;93794420_2257065311268249_4500808362806558166_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;109&amp;_nc_ohc&#x3D;VAnH8AwwZuIAX-Z9yyY&amp;oh&#x3D;f3b4ee7162247b46ce8334c6119d3161&amp;oe&#x3D;5F4029B0" /></p>
 
 <img alt="Dione's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [@dionedomingo](https://instagram.com/dionedomingo) 
 
 ## 📫 How to reach me: ...
+
+
+
+![Dione Domingo Read me stats](https://github-readme-stats.vercel.app/api?username=dionedomingo)
+
 
 <!--
 **dionedomingo/dionedomingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
