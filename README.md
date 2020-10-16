@@ -1,6 +1,6 @@
 # Hi there. 👌🏻
 
-My name is **Dione** and today is October 15, 2020.
+My name is **Dione** and today is October 16, 2020.
 
 ![](https://komarev.com/ghpvc/?username=dionedomingo&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
@@ -23,7 +23,7 @@ My name is **Dione** and today is October 15, 2020.
 
 ## [My latest instagram posts.](https://instagram.com/dionedomingo) 
 
-<p><img height="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;117739797_225512838794728_6523845046874179652_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;ieJP1P7MsikAX_ZZm6-&amp;_nc_tp&#x3D;24&amp;oh&#x3D;0a437a6a2870d2c18f5cd1cadb32104f&amp;oe&#x3D;5FB3C9BE" /> <img height="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;93942286_858077541375288_1128394927490267151_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;dmjEEFM96O4AX_5fvI9&amp;_nc_tp&#x3D;24&amp;oh&#x3D;f7e166ce04fa7413a90a8c3c1a6daf18&amp;oe&#x3D;5FB2ABF1" /> <img height="200" src="https:&#x2F;&#x2F;scontent-lga3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;93794420_2257065311268249_4500808362806558166_n.jpg?_nc_ht&#x3D;scontent-lga3-1.cdninstagram.com&amp;_nc_cat&#x3D;109&amp;_nc_ohc&#x3D;4Zlnl2acricAX_kqOfv&amp;_nc_tp&#x3D;18&amp;oh&#x3D;d36153845de968e985df6857064eb6c9&amp;oe&#x3D;5F8AA670" /></p>
+<p><img height="200" src="https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;117739797_225512838794728_6523845046874179652_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;ieJP1P7MsikAX8KP9IS&amp;_nc_tp&#x3D;24&amp;oh&#x3D;de19e0eab372c8c85ed07bb2e7bb32c2&amp;oe&#x3D;5FB3C9BE" /> <img height="200" src="https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;93942286_858077541375288_1128394927490267151_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;100&amp;_nc_ohc&#x3D;dmjEEFM96O4AX-P0k9F&amp;_nc_tp&#x3D;24&amp;oh&#x3D;d13d06c84bf191dfba6b5b436a7b0636&amp;oe&#x3D;5FB2ABF1" /> <img height="200" src="https:&#x2F;&#x2F;scontent-yyz1-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;93794420_2257065311268249_4500808362806558166_n.jpg?_nc_ht&#x3D;scontent-yyz1-1.cdninstagram.com&amp;_nc_cat&#x3D;109&amp;_nc_ohc&#x3D;4Zlnl2acricAX8A9DBK&amp;_nc_tp&#x3D;18&amp;oh&#x3D;51ea7ea530f108d9d91a1fc842946d9d&amp;oe&#x3D;5F8B4F30" /></p>
 
 <img alt="Dione's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> [@dionedomingo](https://instagram.com/dionedomingo) 
 
