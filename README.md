@@ -1,6 +1,6 @@
 # Hi there. 👌🏻
 
-My name is **Dione** and today is December 1, 2020.
+My name is **Dione** and today is December 2, 2020.
 
 ![](https://komarev.com/ghpvc/?username=dionedomingo&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
